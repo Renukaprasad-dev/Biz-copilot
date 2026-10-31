@@ -1123,8 +1123,7 @@ rights unless a `LICENSE` file explicitly establishes them.
 ## Project Links
 
 -   **Live Application:** [https://biz-phi-beige.vercel.app](https://biz-phi-beige.vercel.app)
--   **GitHub Repository:** [https://github.com/dvkusuma6-1522/bizcopilot-clean](https://github.com/dvkusuma6-1522/bizcopilot-clean)
--   **Google AI Studio (API Key Management):** https://aistudio.google.com/apikey
+-   **GitHub Repository:** [https://github.com/Renukaprasad-dev/Biz-copilot]
 -   **Vercel Dashboard:** https://vercel.com/dashboard
 
 ------------------------------------------------------------------------
