@@ -10,7 +10,7 @@
 
 ## AI Sales & Inventory Advisor for Small Shop Owners in India
 
-- 🌐 **Live Application:** [https://biz-phi-beige.vercel.app](https://biz-phi-beige.vercel.app)
+- 🌐 **Live Application:** [https://biz-copilot-tan.vercel.app/]
 - 📦 **GitHub Repository:** [https://github.com/Renukaprasad-dev/Biz-copilot]
 - **Product Category:** AI-assisted retail analytics, inventory intelligence, and daily shop operations
 - **Primary Users:** Kirana stores, pharmacies, apparel/footwear shops, perishable-goods retailers, restaurants/cafes, hardware stores, electronics shops, distributors, salons, and stationery shops across India.
